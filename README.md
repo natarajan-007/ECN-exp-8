@@ -27,16 +27,13 @@ Compare the calculated values and measured values of voltage in both the cases.
 
 
 **TABULATION:**
-<img width="1600" height="517" alt="image" src="https://github.com/user-attachments/assets/91a52bc6-ebcb-464c-8ede-0781594db3fb" />
-<img width="1600" height="524" alt="image" src="https://github.com/user-attachments/assets/38c52039-f3ca-4e3c-b75b-419d5de87c71" />
+![WhatsApp Image 2026-03-26 at 3 03 17 PM](https://github.com/user-attachments/assets/77934250-51f1-4f2c-9db9-88179827ac51)
 
-
-**Calculation:**
 
 
 
 **Marksplitup:**
-<img width="1600" height="1394" alt="image" src="https://github.com/user-attachments/assets/abce43a1-b461-46e7-8bcd-d76ed22fe719" />
+![WhatsApp Image 2026-03-26 at 3 06 19 PM](https://github.com/user-attachments/assets/491a08fd-8f7c-4de8-9784-0a2c36991a04)
 
 
 **RESULT:**
