@@ -27,7 +27,8 @@ Compare the calculated values and measured values of voltage in both the cases.
 
 
 **TABULATION:**
-![WhatsApp Image 2026-03-26 at 3 03 17 PM](https://github.com/user-attachments/assets/77934250-51f1-4f2c-9db9-88179827ac51)
+
+ ![WhatsApp Image 2026-03-26 at 3 03 17 PM](https://github.com/user-attachments/assets/77934250-51f1-4f2c-9db9-88179827ac51)
 
 
 
